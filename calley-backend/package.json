@@ -1,0 +1,14 @@
+{
+  "name": "calley-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API compatible with Mock API V2 docs (Calley Flutter test)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
